@@ -9,7 +9,7 @@ git clone https://github.com/Pavan-1997/JAVA_SPRINGBOOT_LOCAL_BUILD.git
 cd JAVA_SPRINTBOOT_LOCAL_BUILD/spring-boot-app
 
 
-
+  
 2. Install and Execute the Maven targets to generate the artifacts
 
 sudo apt install maven
